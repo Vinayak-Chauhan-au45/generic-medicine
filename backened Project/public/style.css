@@ -1,0 +1,63 @@
+
+
+body{
+    margin:0; 
+    padding:0;
+    text-align: center;
+    position: fixed;
+    top: 10px; 
+    left: 450px;
+    background-position:center ;
+    background-color: skyblue;
+    font-family: sans-serif ;
+
+ }
+h1{
+    text-align: center;
+    padding-top: 20px;
+    border-color: rgb(15, 15, 15);
+}
+
+.signupbox{
+margin: 10%;
+text-align: left;
+padding: 10px;
+background: blanchedalmond;
+border-radius: 10px;
+font-size: large;
+font-style: italic;
+}
+.loginbox{
+    margin: 10%;
+    text-align: left;
+    padding: 10px;
+    background: blanchedalmond;
+    border-radius: 10px;
+    font-size: large;
+    font-style: italic;
+    
+}
+/* .container{
+    margin: 8%;
+} */
+
+form{
+margin:10px;
+padding: 30px;
+box-sizing: border-box;
+line-height: 30px; 
+border-left: 40px;
+}
+label{
+ margin: 20px;    
+
+}
+input{
+    margin: 10px;
+}
+button{
+font-style: italic;
+font-display: bold;
+margin: 10px;
+padding:10px
+}
